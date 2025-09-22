@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Vacation"
+rootProject.name = "VacationList"
 include(":app")
+ 
